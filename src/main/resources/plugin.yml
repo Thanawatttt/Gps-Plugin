@@ -1,0 +1,12 @@
+name: gps
+version: '1.0'
+main: meoplugin.gps.GPSPlugin
+api-version: '1.21'
+commands:
+  gps:
+    description: GPS navigation system commands
+    usage: /<command> <subcommand> [arguments]
+permissions:
+  gps.admin:
+    description: Allows access to GPS admin commands
+    default: op
