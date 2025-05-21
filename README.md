@@ -3,7 +3,7 @@
 A Minecraft plugin for creating and navigating custom GPS routes in-game.
 
 🌐 Website: [meo.pp.ua](https://meo.pp.ua)  
-📥 Download Latest: [Click here to download](https://github.com/meo/gps-plugin/releases/latest)
+📥 Download Latest: [Click here to download](https://github.com/Thanawatttt/Gps-Plugin/releases/)
 
 ---
 
